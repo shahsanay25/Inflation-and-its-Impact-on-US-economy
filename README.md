@@ -3,7 +3,7 @@ Inflation has wreaked havoc on the global economy. The fate of the global econom
 <br/>In addition, how have various industries like private and government entities in various sectors performed over the previous two decades and contributed to the expansion of Gross Domestic Product of the US economy, as well as how has inflation differed in various areas such as energy, food, medical and transportation.
 
 <br/>
-# Dashboards
+ Dashboards
 <br/> https://public.tableau.com/app/profile/sanay.shah/viz/WorldInflation1970-2021/WorldInflation1970-2021?publish=yes
 <br/>https://public.tableau.com/app/profile/sanay.shah/viz/USAInflationRate2000-2021/USAInflationRate-2?publish=yes
 <br/>https://public.tableau.com/app/profile/sanay.shah/viz/IndustryWiseGrossOutput-USA/IndustryWiseGrossOutput-3?publish=yes
